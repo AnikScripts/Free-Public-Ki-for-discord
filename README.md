@@ -7,7 +7,7 @@
 ## 🔗 Invite the Bot
 
 Get started in seconds:  
-[👉 Invite to Your Server](#) *(insert your bot invite link here)*
+[👉 Invite to Your Server](https://discord.com/api/oauth2/authorize?client_id=1389560899496579082&permissions=274877908992&scope=bot%20applications.commands) *(insert your bot invite link here)*
 
 ---
 
